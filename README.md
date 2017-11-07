@@ -48,7 +48,7 @@ quast -o quast_scf_out -t 24 spades_assembly/scaffolds.fasta #spades scaffolds m
 done
 ```
 
-concatenate quast reports to a single file for plotting. The script can be modified if different assemblies performed.
+Concatenate quast reports to a single file for plotting. The script can be modified if different assemblies performed.
 
 ```
 concatenate_quast.sh "Sp1 Sp2 Sp3 Spn" "k33 k55 k77 k127" "abyss_assembly_dir" "spades_assembly_dir"
