@@ -1,4 +1,4 @@
-Workflow for initial read trimming and assembly. BUSCO checks for quality.
+Workflow for initial read trimming and assembly. QUAST checks for quality.
 
 Do initial trimmming with trimmomatic
 
